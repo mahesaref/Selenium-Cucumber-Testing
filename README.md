@@ -1,8 +1,8 @@
 # rakamin-java
-<b>Learning  Automation Testing web <br>
+<b>Automation Testing Saucademo using Cucumber <br>
 Website: https://saucedemo.com/ <br> 
-Framework : Java Gherkin Cucumber </b> <br>
-by:muhammad edi cahyono <br> <br>
+Framework : Cucumber </b> <br>
+by: Mahesa Refado Syahna <br> <br>
 
 
 The summary Home report
