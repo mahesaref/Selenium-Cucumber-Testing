@@ -1,4 +1,4 @@
-# rakamin-java
+# Rakamin-SQA3
 <b>Automation Testing Saucademo using Cucumber <br>
 Website: https://saucedemo.com/ <br> 
 Framework : Cucumber </b> <br>
