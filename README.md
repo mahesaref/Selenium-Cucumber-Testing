@@ -5,7 +5,7 @@ Framework : Cucumber </b> <br>
 by: Mahesa Refado Syahna <br> <br>
 
 
-Summary Cucumber Repoert
+Summary Cucumber Report
 
 https://drive.google.com/file/d/1zBsSglgKq7UYHsf2jGvOuFFyQwG-s8vq/view?usp=share_link<br><br>
 
